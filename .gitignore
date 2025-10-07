@@ -1,0 +1,18 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.vscode/      # Для VS Code
+Thumbs.db     
+*.log
+logs/
+.coverage
+.pytest_cache/
+htmlcov/
+dist/
+build/
+*.egg-info/
+.env
+database.sqlite
